@@ -16,7 +16,7 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'LinkedIn', link: 'https://www.linkedin.com/in/ben-sommers-567b9a6/'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/ben-sommers-567b9a6/'}
 #- {icon: 'facebook', link: 'nah'}
 # - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 - {icon: 'envelope', link: 'mailto:hello@bensommers.com'}
