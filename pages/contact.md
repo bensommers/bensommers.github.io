@@ -3,4 +3,4 @@ layout: misc
 title: Contact
 ---
 
-I'd love to hear from you! Please reach out to me using the email or linkedin icons in the upper right of the site.
+I'd love to hear from you! Please reach out to me using the email or linkedin icons.
