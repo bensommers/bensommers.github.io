@@ -7,9 +7,9 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Blog', folder: 'pages', file: 'blog.html'}
-- {name: 'Technology', folder: 'pages', file: 'tech.html'}
-- {name: 'Photography', folder: 'pages', file: 'photos.html'}
+# - {name: 'Blog', folder: 'pages', file: 'blog.html'}
+# - {name: 'Technology', folder: 'pages', file: 'tech.html'}
+# - {name: 'Photography', folder: 'pages', file: 'photos.html'}
 #- {name: 'Documentation', folder: 'pages', file: 'documentation.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
