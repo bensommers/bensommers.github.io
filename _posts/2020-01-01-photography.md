@@ -16,5 +16,5 @@ A few of my favorite pictures
 
 ## Cats
 
-![](http://www.bensommers.com//assets/img/cat.jpg)
+![](http://www.bensommers.com//assets/img/cats.jpg)
 
