@@ -11,10 +11,10 @@ A few of my favorite pictures
 
 ## Dogs
 
-![](https://bensommers.github.io/_assets/tri.jpg)
-![](https://bensommers.github.io/_assets/jet.jpg)
+![](http://www.bensommers.com//assets/img/tri.jpg)
+![](http://www.bensommers.com//assets/img/jet.jpg)
 
 ## Cats
 
-![](https://bensommers.github.io/_assets/cats.jpg)
+![](http://www.bensommers.com//assets/img/cat.jpg)
 
