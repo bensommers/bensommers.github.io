@@ -9,9 +9,9 @@ image: cactus.jpg
 
 # Home Assistant
 
-Currently deployed, running automations as follows:
+Currently deployed via docker, running automations as follows:
 * Lights on sundown
-* Lights on upon entry to office
+* Lights on upon entry to office, off after 10 minutes no activity
 
 # Google Home
 Integrated into Home Assistant

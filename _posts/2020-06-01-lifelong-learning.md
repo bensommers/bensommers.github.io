@@ -20,3 +20,4 @@ I have been a Linux Academy subscriber for years now, and have completed the cou
 * Certified Entry-Level Python Programmer
 * AWS Certified Machine Learning Specialty
 * AWS Certified Solutions Architect - Professional 2020
+* Microsoft Azure Administrator Associat AZ-104
