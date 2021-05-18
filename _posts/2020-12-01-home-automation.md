@@ -40,3 +40,6 @@ Integrated into Home Assistant
 * 1 x Google Nest Home acting as photo frame 
 * 2 x Google Nest Speakers spread cross downstairs
 * Downstairs Speaker group for broadcast on first floor
+
+# Hyperion
+* Currently setup Hyperion, driving a responsive LED backlight for immersion
