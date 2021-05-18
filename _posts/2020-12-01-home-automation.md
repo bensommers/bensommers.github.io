@@ -7,9 +7,10 @@ tags: [documentation,sample]
 image: cactus.jpg
 ---
 
-# Home Assistant
+# Home Assistant currently deployed via Docker
 
-# Hardware
+Hardware
+=============
     * Raspberry Pi 4  
     * 1x Google Nest Home  
     * 2x Google Nest Speakers  
@@ -28,9 +29,11 @@ image: cactus.jpg
     Camera
     : Amcrest NVR 8Ch System
 
-Currently deployed via docker, running automations as follows:
-* Lights on sundown
-* Lights on upon entry to office, off after 10 minutes no activity
+# Automations
+* Den lights ON at sundown
+* Office Bright Light ON if presence detected between 9:00AM to Sunset, off at Sunset
+* Office Dim light ON if presence detected between Sunset and Midnight
+
 
 # Google Home
 Integrated into Home Assistant
