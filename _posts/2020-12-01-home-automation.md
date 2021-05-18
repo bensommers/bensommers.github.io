@@ -4,7 +4,7 @@ title: "Home Automation"
 author: "Ben Sommers"
 categories: documentation
 tags: [documentation,sample]
-image: HomeAss.JPG
+image: HomeAssist.JPG
 ---
 
 # Home Assistant currently deployed via Docker
